@@ -1,4 +1,4 @@
-# deltaV-Optimized-Interplanetary-Trajectories-to-Uranus
+# DeltaV-Optimized-Interplanetary-Trajectories-to-Uranus
 
 To successfuly run this project, first open mgaGenticCall.m. This is the parent script that calls all other MATLAB functions in the folder.
 If interested in running my code, I would consider looking at the user variables at the top of the script. When the mission string is set
