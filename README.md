@@ -33,3 +33,6 @@ If you wish to generate a comparison between my work and NASA's Galileo mission,
 
 
 If there are any questions about running the provided MATLAB scripts, please reach out to me at geneluevano@gmail.com.
+
+If you would like to see me give my 15 minute final presentation, you can find the recording here:
+  - https://youtu.be/2_SKgY0i2k8
