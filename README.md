@@ -13,7 +13,7 @@ If you are interested in reviewing my data, first load the data file you would l
 uranusData60.mat). Then update the value of mission and only run the first section at the top of the script. Then, finally, go to the last
 section, at the bottom of the script, and run. This will get you dates and plots of the mission you are interested in.
 
-Unfortunately, I was not able to include all of the necesary ephermide files. You will need to go to JPL's Navigation Ancillary Information 
+Unfortunately, I was not able to include all of the necesary ephemeride files. You will need to go to JPL's Navigation Ancillary Information 
 Facility (NAIF) to download the remaining files. 
   - The latest leap seconds: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/latest_leapseconds.tls
   - JPL Planetary Ephemerides: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de440.bsp
